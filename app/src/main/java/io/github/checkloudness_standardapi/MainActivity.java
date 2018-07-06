@@ -4,6 +4,9 @@ package io.github.checkloudness_standardapi;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/**
+ * Check average loudness periodically.
+ */
 public class MainActivity extends AppCompatActivity {
     AudioRecorder audioRecorder;
 
